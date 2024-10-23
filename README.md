@@ -15,15 +15,17 @@ Welcome to the **BEST** Pet Sim 99 hack tool that is **100% free** and **undetec
 ---
 
 ##  **FEATURES** 🚀
--Auto Farm
+-**Auto Farm**
 
--Item Box Dupe
+-Item Box **Dupe**
 
 -Auto Minigames
 
 -Teleports
 
 -Auto Buy
+
+-**Trade Scam**
 
 -Much more
 
